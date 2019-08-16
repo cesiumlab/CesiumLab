@@ -10,7 +10,4 @@ CesiumLab是围绕Cesium开源三维地球引擎的一套免费的完整工具�
 4，集成EarthSDK，实现完整的场景配置整合功能。
 
 
-
-v2.0.1 download:
-
-https://github.com/cesiumlab/CesiumLab/releases/download/v2.0.1/cesiumlab2_2.0.1.exe
+ 
